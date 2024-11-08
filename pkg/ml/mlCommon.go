@@ -1,5 +1,6 @@
 package ml
 
+// list of neccassary packages to import to ensure smooth running of the file
 import (
 	"bufio"
 	"math"
@@ -12,11 +13,7 @@ import (
 
 // Get categorical class.
 func GetCategory(num int) string {
-	if num == 0 {
-		return "Benign"
-	} else {
-		return "Malicious"
-	}
+	return "Benign" if num == 0 else "Malicious"
 }
 
 //Activation function - two class classifier.
