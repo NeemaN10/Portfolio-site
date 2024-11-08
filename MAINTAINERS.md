@@ -2,11 +2,11 @@
 
 | Name              | Email                     | Deepfence Community Slack | GitHub                                                  | Company   |
 |-------------------|---------------------------|---------------------------|---------------------------------------------------------|-----------|
-| Ramanan Ravikumar | ramanan@deepfence.io      | `@Ramanan`                | [@ramanan-ravi](https://github.com/ramanan-ravi)        | Deepfence |
-| Siddharth Satpathy| siddharth@deepfence.io    | `@Siddharth Satpathy `    | [@sidd0529](https://github.com/sidd0529)                | Deepfence |
-| Harshvardhan Karn | harshvardhan@deepfence.io | `@harsh`                  | [@ibreakthecloud](https://github.com/ibreakthecloud)    | Deepfence |               |                      |                           |                                                   |           |
+| Ramanan Ravikumar | <ramanan@deepfence.io>      | `@Ramanan`                | [@ramanan-ravi](https://github.com/ramanan-ravi)        | Deepfence |
+| Siddharth Satpathy| <siddharth@deepfence.io>    | `@Siddharth Satpathy`    | [@sidd0529](https://github.com/sidd0529)                | Deepfence |
+| Harshvardhan Karn | <harshvardhan@deepfence.io> | `@harsh`                  | [@ibreakthecloud](https://github.com/ibreakthecloud)    | Deepfence |               |                      |                           |                                                   |           |
 
-Please reach any of the maintainers on slack (#community-support on https://deepfence-community.slack.com) or email if you want to help.
+Please reach any of the maintainers on slack (#community-support on <https://deepfence-community.slack.com>) or email if you want to help.
 
 ## How to be maintainer?
 

@@ -8,22 +8,20 @@ Deepfence FlowMeter is an experimental utility built to analyse and classify pac
 
 ## Primary design goals
 
-  * Classify packets and flows as benign or malicious with high true positives (TP) and low false positives (FP)
-  * Use the labeled data to reduce amount of traffic requiring deeper analysis
+* Classify packets and flows as benign or malicious with high true positives (TP) and low false positives (FP)
+* Use the labeled data to reduce amount of traffic requiring deeper analysis
 
 Deepfence FlowMeter categorizes packets into flows and shows a rich ensemble of flow data and statistics.
 
 ## Architecture
 
 | ![FlowMeter Architecture](img/flowmeter-architecture.png) |
-| :--: | 
+| :--: |
 | *FlowMeter takes packets and returns file with statistics of flows.* |
-
 
 | ![FlowMeter Classification](img/flowmeter-classification.png) |
 | :--: |
 | *Flowmeter takes packets and returns file with statistics of flows and classifies packets as benign or malicious.* |
-
 
 ## When to use FlowMeter
 
