@@ -18,11 +18,8 @@ func GetCategory(num int) string {
 
 //Activation function - two class classifier.
 func BinaryClassifier(z float64) int {
-	if z >= 0.5 {
-		return 1
-	} else {
-		return 0
-	}
+	return 1 if z >= 0.5 else 0
+
 }
 
 //Sigmoid function.
